@@ -1,0 +1,4 @@
+[02-Jun-2016 04:21:39 America/Chicago] PHP Warning:  fsockopen(): unable to connect to smtp.mxhichina.com:25 (Connection timed out) in /home/ysvmcbmv/public_html/mail/libmail.php on line 531
+[02-Jun-2016 04:21:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ysvmcbmv/public_html/mail/libmail.php on line 535
+[02-Jun-2016 04:23:41 America/Chicago] PHP Warning:  fsockopen(): unable to connect to smtp.mxhichina.com:25 (Connection timed out) in /home/ysvmcbmv/public_html/mail/libmail.php on line 531
+[02-Jun-2016 04:23:41 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ysvmcbmv/public_html/mail/libmail.php on line 535
